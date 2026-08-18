@@ -1,7 +1,7 @@
 /* ========================================
    CONFIGURATION & CONSTANTS
    ======================================== */
-const API_BASE = 'http://127.0.0.1:8000';
+const API_BASE = 'https://room-types-prediction.onrender.com';
 const HEALTH_ENDPOINT = `${API_BASE}/health`;
 const PREDICT_ENDPOINT = `${API_BASE}/predict`;
 
